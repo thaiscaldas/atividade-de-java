@@ -12,9 +12,8 @@ Beltrano      2000                R$ 7.625,29               Rua Delta
 
  */
 package Questao3;
-/**
- * Alunos: 1 - Andrey Carlos Miranda da Silva 2 - Nalberth de Leão Castro 
- */
+
+ 
 public class Empregado {
     
     private String nome, endereço;
